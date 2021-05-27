@@ -34,7 +34,7 @@ Zsh is a shell, like Bash.
 
 Functionally, there's nothing different between Zsh and Bash. You can also create aliases, make functions, export variables, and run commands.  
 
-What Zsh brings to the picture is colour customisation. You can change the theme and colour of your shell without much programming capabilities. 
+What Zsh brings to the picture is colour customization. You can change the theme and colour of your shell without much programming capabilities. 
 
 All we had to do was install a "package manager" of sorts called [oh-my-zsh][1].  
 
